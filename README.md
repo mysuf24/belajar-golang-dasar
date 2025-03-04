@@ -1,0 +1,3 @@
+step 1 untuk menjalankan golang bisa menggunakan "go build terlebih dahulu atau bisa langsung go run "nama file", bila menggunakan go build golang akan membuild file.exe agar bisa dijalankan, bila menggunakan go run golang akan langsung menjalankan file terserbut tanpa membuat file exe"
+
+function dalam module adalah unik yang artinya tidak boleh ada function yg sama incase membuat file sample.go dan test.go dengan function main maka kita tidak bisa mem build module dikarenakan function tersebut duplikat
